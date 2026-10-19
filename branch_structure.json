@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "fix/issue-1682-prevent-delta-neutral-strategy-rebalances-from",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "fix/issue-1682-prevent-delta-neutral-strategy-rebalances-from": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "fix/issue-1682-prevent-delta-neutral-strategy-rebalances-from",
+    "origin"
+  ]
+}
